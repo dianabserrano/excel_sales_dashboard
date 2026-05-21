@@ -97,7 +97,6 @@ Sales were calculated using:
 
 Quantity × Unit Price × (1 − Discount)
 
----
 
 ### Profit
 
