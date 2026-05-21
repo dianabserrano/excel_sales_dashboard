@@ -154,6 +154,6 @@ Synthetic dataset with:
 ## Dashboard Preview
 Example:
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](preview.png)
 
 
